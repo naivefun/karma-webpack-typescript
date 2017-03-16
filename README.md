@@ -2,10 +2,6 @@
 A simple CLI starter for karma/webpack/typescript
 
 ## Get Started
-### Install PhantomJS Globally
-```
-npm install phantomjs -g
-```
 
 ### Start Karma
 ```

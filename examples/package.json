@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "karma-webpack-typescript": "0.0.1"
+    "karma-webpack-typescript": "0.0.3"
   }
 }
